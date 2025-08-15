@@ -2,7 +2,7 @@
 <h3 align="center">Know Your Rights! Better Citizen, Better Nation!</h1>
 
 <p align="center">
-<img src="img width="2559" height="989" alt="Image" src="https://github.com/user-attachments/assets/98eb5664-0aac-46d0-864e-74bbf31bd525" width="700"/>
+<img  src="https://github.com/user-attachments/assets/98eb5664-0aac-46d0-864e-74bbf31bd525" width="700"/>
 </p>
 
 ## About The Project
